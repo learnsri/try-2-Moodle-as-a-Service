@@ -1,0 +1,8 @@
+site_name: Moodle as a Service Test2
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Assignment Activity: Assignment-activity.md
+  - Alpine Linux: Alpine-linux.md
