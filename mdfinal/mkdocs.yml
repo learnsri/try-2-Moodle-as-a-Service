@@ -1,0 +1,21 @@
+site_name: Moodle as a Service
+theme:
+  name: material
+  logo: 'whtLearn_LogCopy.png'      # logo in the ribbon
+  favicon: 'whtLearn_Log.png'   # favicon in browser tab
+  palette:
+    primary: '#055394'          # ribbon color
+    accent: '#FFC107'           # optional accent color
+
+extra_css:
+  - css/custom.css
+
+
+nav:
+  - Home: index.md
+  - Assignment Activity: Assignment-activity.md
+  - Alpine Linux: Alpine-linux.md
+  - img:
+      - Gallery: img/index.md
+  - imgs:
+      - Gallery: https://github.com/LEARN-LK/lms/tree/master/imgs
